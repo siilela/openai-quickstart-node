@@ -43,8 +43,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>OpenAI Quickstart</title>
-        <link rel="icon" href="/dog.png" />
+        <title>Siilela's Gift App</title>
+        <link rel="icon" href="/gift.png" />
       </Head>
 
       <main className={styles.main}>
