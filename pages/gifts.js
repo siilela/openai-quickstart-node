@@ -105,7 +105,7 @@ export default function Home() {
         </form>
         {loading && (
           <div>
-            <h3>Looking for the best gift ideas 🎁 💡</h3>
+            <h3>Looking for the best gift ideas 🍾  🎁 🎸</h3>
             <img src="/loading.gif" className={styles.loading} />
           </div>
         )}
